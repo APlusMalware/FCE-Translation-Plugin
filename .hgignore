@@ -1,0 +1,4 @@
+syntax: glob
+APlusMalware.FceTranslationPlugin/bin/
+APlusMalware.FceTranslationPlugin/obj/
+APlusMalware.FceTranslationPlugin/dist/
